@@ -1,6 +1,7 @@
 import '../style.scss'
 import {useEffect, useState} from 'react'
-import Swal from 'sweetalert2'
+
+
 function Pagination (props){
     const [total, setTotal] = useState(0);
     const limit = 20;

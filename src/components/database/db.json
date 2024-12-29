@@ -11805,33 +11805,19 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Women's%20Wrist%20Watch/thumbnail.png"
     },
     {
-      "id": "fd35",
-      "title": "Cơm rang",
-      "price": "25000",
-      "stock": "2",
-      "discountPercentage": "40",
-      "images": [
-        "https://blog.maika.ai/wp-content/uploads/2024/02/anh-meo-meme-17.jpg"
-      ]
-    },
-    {
-      "id": "e6b8",
-      "title": "bún bò",
+      "id": "ed66",
+      "title": "cơm bò",
       "price": "30000",
       "stock": "2",
-      "discountPercentage": "30",
-      "images": [
-        "https://blog.maika.ai/wp-content/uploads/2024/02/anh-meo-meme-17.jpg"
-      ]
-    },
-    {
-      "id": "a269",
-      "title": "cơm bình dân",
-      "price": "35000",
-      "stock": "1",
       "discountPercentage": "35",
       "images": [
-        "https://blog.maika.ai/wp-content/uploads/2024/02/anh-meo-meme-17.jpg"
+        [
+          [
+            [
+              "https://blog.maika.ai/wp-content/uploads/2024/02/anh-meo-meme-17.jpg"
+            ]
+          ]
+        ]
       ]
     }
   ],

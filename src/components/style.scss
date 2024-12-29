@@ -24,7 +24,7 @@
         border: 1px solid black;
         padding: 20px;
         width: 180px;
-        height: 250px;
+        height: 245px;
         margin: 20px;
         position: relative;
     }
@@ -36,13 +36,13 @@
     &__product-price{
         position: absolute;
         left: 2px;
-        bottom: 0;
+        bottom: 10px;
 
     }
     &__product-stock{
         position: absolute;
         right: 2px;
-        bottom: 0;
+        bottom: 10px;
     }
     &__product-discount{
         position: absolute;
@@ -76,6 +76,16 @@
         color: palevioletred;
         font-size: 40px;
     }
+    &__delete{
+        position: absolute;
+        bottom: 0;
+        right: 2px;
+    }
+    &__edit{
+        position: absolute;
+        bottom: 0;
+        left: 2px;
+    }
 }
 .pagination{
     display: flex;
@@ -100,7 +110,7 @@
 }
 .modal{
     width: 40%;
-    height: 20%;
+    height: 30%;
     position: absolute;
     background-color: rgba(128, 128, 128, 0.8); // Gray background with opacity
     border-radius: 10px;
